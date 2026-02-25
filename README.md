@@ -1,6 +1,6 @@
-# Contact Management System Frontend
+# Contact Management System 
 
-## Contact Management System Frontend
+## Contact Management Frontend
 This is the React frontend for the Contact Management System.
 
 ### Features
